@@ -1,5 +1,5 @@
 module github.com/liamg/traitor
-TEST PR1
+TEST PR1 SHAG7
 go 1.18
 
 require (
