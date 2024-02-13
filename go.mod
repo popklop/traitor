@@ -1,5 +1,6 @@
 module github.com/liamg/traitor
-TEST2
+TEST PR1
+>>>>>>> perviy
 go 1.18
 
 require (
