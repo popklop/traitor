@@ -1,5 +1,5 @@
 # Traitor
-PRAC 1 TEST
+PRAC 1 TEST SHAG7
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
